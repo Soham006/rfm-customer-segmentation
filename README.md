@@ -10,6 +10,14 @@ This insight directly informs retention strategy: protecting and rewarding this 
 
 ![Revenue by Segment](revenue_by_segment.png)
 
+## 📊 Interactive Dashboard
+
+An interactive Power BI dashboard visualizing customer segments, revenue distribution, 
+and KPI metrics — with a segment slicer for dynamic filtering.
+
+- **Download**: [rfm_dashboard.pbix](rfm_dashboard.pbix) (requires Power BI Desktop)
+- **Preview**: [rfm_dashboard.pdf](rfm_dashboard.pdf) (view without Power BI)
+
 ## 🎯 Business Objective
 
 Identify high-value customer segments to enable targeted marketing strategies:
